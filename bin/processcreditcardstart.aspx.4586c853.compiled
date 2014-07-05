@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/CardPay Version/JJgeneral/Scheduler/processcreditcardstart.aspx" hash="fe0acf3e3" filehash="c660095d4273e3d7" flags="110000" assembly="App_Web_vk_ilg2i" type="ASP.jjgeneral_scheduler_processcreditcardstart_aspx">
+    <filedeps>
+        <filedep name="/CardPay Version/JJgeneral/Scheduler/processcreditcardstart.aspx" />
+        <filedep name="/CardPay Version/JJgeneral/Scheduler/processcreditcardstart.aspx.vb" />
+    </filedeps>
+</preserve>

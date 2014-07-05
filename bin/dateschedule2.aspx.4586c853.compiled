@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/CardPay Version/JJgeneral/Scheduler/DateSchedule2.aspx" hash="fe0acf3e3" filehash="eb7e2356b9c18d68" flags="110000" assembly="App_Web_t6rnwihz" type="ASP.jjgeneral_scheduler_dateschedule2_aspx">
+    <filedeps>
+        <filedep name="/CardPay Version/JJgeneral/Scheduler/DateSchedule.aspx.vb" />
+        <filedep name="/CardPay Version/JJgeneral/Scheduler/DateSchedule2.aspx" />
+    </filedeps>
+</preserve>

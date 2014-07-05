@@ -1,0 +1,27 @@
+.maintext {
+	font-family: Tahoma, Geneva, Arial;
+	font-size: 14px;
+	color: #666666;
+	text-decoration: none;
+}
+.foottext {
+	font-family: Tahoma, Geneva, Arial;
+	font-size: 11px;
+	color: #666666;
+	text-decoration: none;
+}
+a:link {
+	color: #663366;
+	text-decoration: none;
+}
+a:hover {
+	color: #996699;
+	text-decoration: underline;
+}
+.mediumtext {
+
+	font-family: Tahoma, Geneva, Arial;
+	font-size: 13px;
+	color: #666666;
+	text-decoration: none;
+}

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/CardPay Version/internal_reservation/default.aspx" hash="fe0acf3e3" filehash="29d92485cbbcdf4c" flags="110000" assembly="App_Web_iud_nrpv" type="ASP.internal_reservation_default_aspx">
+    <filedeps>
+        <filedep name="/CardPay Version/internal_reservation/default.aspx" />
+        <filedep name="/CardPay Version/internal_reservation/default.aspx.vb" />
+    </filedeps>
+</preserve>

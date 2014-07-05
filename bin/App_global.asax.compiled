@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="8" virtualPath="/CardPay Version/global.asax" hash="78d68422" filehash="180cf215fac9" flags="150000" assembly="App_global.asax" type="ASP.global_asax">
+    <filedeps>
+        <filedep name="/CardPay Version/global.asax" />
+    </filedeps>
+</preserve>

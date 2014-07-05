@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C:\...\JJParty Upgrade\", ".", "{15875299-B5C4-4D88-826D-05A7BDFB904C}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/JJParty Upgrade"
+		Debug.AspNetCompiler.PhysicalPath = "..\JJParty Upgrade\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\JJParty Upgrade\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/JJParty Upgrade"
+		Release.AspNetCompiler.PhysicalPath = "..\JJParty Upgrade\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\JJParty Upgrade\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "4761"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15875299-B5C4-4D88-826D-05A7BDFB904C}.Debug|.NET.ActiveCfg = Debug|.NET
+		{15875299-B5C4-4D88-826D-05A7BDFB904C}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
